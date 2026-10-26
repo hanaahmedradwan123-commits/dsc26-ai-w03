@@ -1,7 +1,3 @@
-# Results: Tawseel failed-delivery baseline
-
-<!-- Read by your Track Mentor, not graded by tests. Replace the comments. -->
-
 # Baseline Results
 
 | Model | ROC-AUC | PR-AUC | Brier Score |
